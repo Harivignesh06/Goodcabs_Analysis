@@ -13,3 +13,7 @@ With operations in ten tier-2 cities across India, Goodcabs has set ambitious pe
 <H3>City wise Analysis Page</H3>
 
 ![image](https://github.com/user-attachments/assets/2526d1b3-eaa0-4490-84da-1ab598257188)
+
+<H3>Month wise Analysis Page</H3>
+
+![image](https://github.com/user-attachments/assets/d4edb462-8550-436c-9e3b-982db83eb928)
