@@ -8,6 +8,8 @@ With operations in ten tier-2 cities across India, Goodcabs has set ambitious pe
 
 Link to Power BI Report : https://app.powerbi.com/view?r=eyJrIjoiZmNjOWM0YzUtOWQ1Ny00M2E0LWJiZjgtMzA4ZTlmYzc4OGMwIiwidCI6IjZhYzdhMWY0LTVmYjEtNDE1My1iYjRmLTEyZDIwMjBhMWY3ZCIsImMiOjN9
 
+Link to my Project Linkedin post : https://www.linkedin.com/posts/harivignesh-m-6049a7191_codebasicsresumeprojectchallenge-codebasics-activity-7281733354096312320-63UG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0s2KQBV8JaKKxRDJfxrsUwgH9juTVGTgM
+
 
 <h2>Take a look at the screenshots of my Power BI dashboard below!</h2>
 
