@@ -6,6 +6,10 @@ Goodcabs, a cab service company established two years ago, has gained a strong f
 
 With operations in ten tier-2 cities across India, Goodcabs has set ambitious performance targets for 2024 to drive growth and improve passenger satisfaction.
 
+Link to Power BI Report : https://app.powerbi.com/view?r=eyJrIjoiZmNjOWM0YzUtOWQ1Ny00M2E0LWJiZjgtMzA4ZTlmYzc4OGMwIiwidCI6IjZhYzdhMWY0LTVmYjEtNDE1My1iYjRmLTEyZDIwMjBhMWY3ZCIsImMiOjN9
+
+
+
 <H3>First Page of the Dashboard</H3>
 
 ![image](https://github.com/user-attachments/assets/aef164de-dc26-4b42-9a8c-5382d72e67ff)
