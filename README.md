@@ -9,6 +9,7 @@ With operations in ten tier-2 cities across India, Goodcabs has set ambitious pe
 Link to Power BI Report : https://app.powerbi.com/view?r=eyJrIjoiZmNjOWM0YzUtOWQ1Ny00M2E0LWJiZjgtMzA4ZTlmYzc4OGMwIiwidCI6IjZhYzdhMWY0LTVmYjEtNDE1My1iYjRmLTEyZDIwMjBhMWY3ZCIsImMiOjN9
 
 
+<h2>Take a look at the screenshots of my Power BI dashboard below!</h2>
 
 <H3>First Page of the Dashboard</H3>
 
